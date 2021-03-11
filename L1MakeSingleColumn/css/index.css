@@ -1,0 +1,49 @@
+body {
+    background-color: lime;
+}
+.container {
+    background-image: linear-gradient(yellow, green);
+    border-radius: 10px;
+    border-color:black;
+}
+.innerBox {
+    padding-left: 6%;
+    padding-right: 6%;
+
+}
+.innerBox:last-child {
+    padding-bottom: 6vh;
+}
+header {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+}
+footer {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 50px;
+    color:mediumblue;
+}
+h2 {
+    font-size: 8vh;
+    color: gray;
+    padding-top: 15vh;
+    padding-bottom: 1vh;
+    text-align: justify;
+}
+h3 {
+    font-size: 6vh;
+    color: white;
+    padding-bottom: 1vh;
+}
+h4 {
+    color: lightgray;
+}
+.list {
+    color: lightgray;
+}
+li {
+    text-align: justify;
+    padding-bottom: 5px;
+}
